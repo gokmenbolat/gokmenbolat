@@ -12,8 +12,7 @@
 ## 🎮 Steam Projects
 - Strange – [Steam Page](https://store.steampowered.com/app/2846660/Strange/)
 - Tribe of Werewolves – [Steam Page](https://store.steampowered.com/app/3156110/Tribe_of_Werewolves/)
-- Gameplay Videos: [YouTube Link](https://www.youtube.com/watch?v=K6BsQdziKNI)
-- [YouTube Link](https://www.youtube.com/watch?v=rIsYR5qNsEA)
+- Gameplay Videos: [YouTube Link](https://www.youtube.com/watch?v=K6BsQdziKNI)[YouTube Link](https://www.youtube.com/watch?v=rIsYR5qNsEA)
 
 ## 📫 Contact
 gokmenbolat@gmail.com

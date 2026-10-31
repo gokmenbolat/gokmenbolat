@@ -3,7 +3,7 @@
 🎮 I'm an indie game developer experienced in Unity & C#.  
 🚀 I have published 2 games on Steam: **Strange** and **Tribe of Werewolves**  
 🌐 I'm currently developing a multiplayer TPS shooter using Mirror Networking.  
-📍 Based in Türkiye | Open to remote work  
+📍 Germany | Open to remote work  
 
 ## 🛠 Technologies
 - Unity3D · C# · Mirror Networking · Git · Steamworks API  
